@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "A Jupyter Notebook from #semanticClimate - Liberating knowledge from climate-related reports"
+authors:
+- family-names: "name"
+  given-names: "name"
+  orcid: "https://orcid.org/"
+title: "Notebook Title"
+version: 0.0.1
+doi: 
+date-released: 2024-03-20
+url: "https://github.com/semanticClimate/"
