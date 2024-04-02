@@ -1,6 +1,6 @@
 # CoLab Notebook
 
-*This is a teplate repository. Instructions for use are [here](https://github.com/semanticClimate/Research-Catalogue/wiki/Cataloging-Colab-Notebooks). Delete this line of text when your publish your own repository.*
+*This is a template repository. Instructions for use are [here](https://github.com/semanticClimate/Research-Catalogue/wiki/Cataloging-Colab-Notebooks). Delete this line of text when your publish your own repository.*
 
 Add your DOI Zenodo badge here.
 
