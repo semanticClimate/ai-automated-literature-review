@@ -1,4 +1,6 @@
-# CoLab Notebook
+# Automated Literature Review
+
+Discussion: https://github.com/orgs/semanticClimate/discussions/9
 
 *This is a template repository. Instructions for use are [here](https://github.com/semanticClimate/Research-Catalogue/wiki/Cataloging-Colab-Notebooks). Delete this line of text when your publish your own repository.*
 
