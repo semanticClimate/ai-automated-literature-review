@@ -1,14 +1,20 @@
 # Documentation Outline
 
-## About: Learning points
+## About: Orientation and learning points
 
 ## A literature review question?
+
+Assigned @neerajkumaris - 
+
+Questions: How does the author report on their question in the literature review in terms of the use of ALR?
 
 ## Searching open corpora
 
 ## Analysing your collection
 
 ## Using collection in your review paper
+
+Notes: The author needs to use the collection, and information and data about the collection in their literature review paper.
 
 ---
 
