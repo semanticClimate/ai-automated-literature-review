@@ -22,7 +22,7 @@ The author needs to use the collection, and information and data about the colle
 
 Questions:
 
-What does the collection and the process produce that the author can use in their paper?
+What does the collection (or what would we like it to collect) and the process produce that the author can use in their paper?
 
   - A complete Git repository
   - A replicable and reusable system
