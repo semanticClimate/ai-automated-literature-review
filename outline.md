@@ -14,14 +14,20 @@
 
 ## Other sections
 
-### Glossary
+### Metadata
+
+### Other publication sections needed
+
+Covers, title pages, table of contents, contributors, etc. See CMOS for reference: https://www.chicagomanualofstyle.org/16/ch01/ch01_toc.html
+
+### Colophon
 
 ### Introduction
 
 ### Resources
 
-### References
+### Glossary and abbreviations
 
-### Colophon
+### References
 
 
