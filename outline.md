@@ -1,5 +1,15 @@
 # Documentation Outline
 
+The idea is to create descriptions of what we would like the ALR to do.
+
+The writing style will be based on the following:
+
+  - Technical writing method: Diátaxis - https://diataxis.fr/
+  - Technical writing style: MDN Web Docs - https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide
+  - Style guide: CMOS - https://www.chicagomanualofstyle.org/home.html
+
+The writing tooling has not yet been selected.
+
 ## About: Orientation and learning points
 
 ## A literature review question?
