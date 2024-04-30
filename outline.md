@@ -10,7 +10,7 @@ The writing style will be based on the following:
 
 The writing tooling has not yet been selected.
 
-## About: Orientation and learning points
+## Orientation and learning points
 
 ## A literature review question?
 
@@ -19,6 +19,8 @@ Assigned @neerajkumaris -
 Questions: 
 
 How does the author report on their question in the literature review in terms of the use of ALR?
+
+## Using CoLab
 
 ## Searching open corpora
 
