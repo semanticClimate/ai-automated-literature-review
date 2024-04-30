@@ -85,7 +85,7 @@ Assigned [@Adesh212](https://github.com/Adesh212) -
 
 **Outline:**
 
-## Using collection in your review paper
+## Using the literature collection in your review paper
 
 Assigned [@Simon Worthington](https://github.com/mrchristian) -
 
