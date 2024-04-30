@@ -4,6 +4,8 @@ The idea is to create descriptions of what we would like the ALR to do.
 
 The writing style will be based on the following:
 
+The guide will be considered a Step-by-step guide acording to the Diátaxis method as the audience will be users familiar with data science tooling and paper writing (as Diátaxis describes it - a work place instruction).
+
  - Technical writing method: Diátaxis - https://diataxis.fr/
  - Technical writing style: MDN Web Docs - https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide
  - Style guide: APA - https://apastyle.apa.org/
