@@ -128,7 +128,7 @@ What does the collection (or what would we like it to collect) and the process p
 
 ### Other publication sections needed
 
-Covers, title pages, table of contents, contributors, etc. See CMOS for reference: https://www.chicagomanualofstyle.org/16/ch01/ch01_toc.html
+Covers, title pages, table of contents, contributors, etc. See style guide: APA - https://apastyle.apa.org/
 
 ### Colophon
 
