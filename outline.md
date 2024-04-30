@@ -10,29 +10,79 @@ The writing style will be based on the following:
 
 The writing tooling has not yet been selected.
 
+## SECTIONS
+
 ## Orientation and learning points
+
+Assigned @NOT ASSIGNED - 
+
+**Questions:** 
+
+**Notes:** 
+
+**Outline:**
 
 ## A literature review question?
 
 Assigned @neerajkumaris - 
 
-Questions: 
+**Questions:** 
 
 How does the author report on their question in the literature review in terms of the use of ALR?
 
+**Notes:** 
+
+**Outline:**
+
 ## Using CoLab
+
+Assigned @neerajkumaris - 
+
+**Questions:** 
+
+**Notes:** 
+
+**Outline:**
+
+## Install
+
+Assigned @neerajkumaris - 
+
+**Questions:** 
+
+**Notes:** 
+
+**Outline:**
 
 ## Searching open corpora
 
+Assigned @Amit - 
+
+**Questions:** 
+
+**Notes:** 
+
+**Outline:**
+
 ## Analysing your collection
+
+Assigned @Adesh212 -
+
+**Questions:** 
+
+**Notes:** 
+
+**Outline:**
 
 ## Using collection in your review paper
 
-Notes: 
+Assigned @mrchristian -
+
+**Notes:** 
 
 The author needs to use the collection, and information and data about the collection in their literature review paper. 
 
-Questions:
+**Questions:** 
 
 What does the collection (or what would we like it to collect) and the process produce that the author can use in their paper?
 
@@ -49,9 +99,9 @@ What does the collection (or what would we like it to collect) and the process p
   - Bibtex output and import with content an/or contnet links to Zotero
   - CSS Paged media outputs
 
+**Outline:**
 
 
----
 
 ## Other sections
 
@@ -70,5 +120,9 @@ Covers, title pages, table of contents, contributors, etc. See CMOS for referenc
 ### Glossary and abbreviations
 
 ### References
+
+Zotero collection: 
+
+
 
 
