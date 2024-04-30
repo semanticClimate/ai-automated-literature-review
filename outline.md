@@ -10,6 +10,13 @@ The writing style will be based on the following:
 
 The writing tooling has not yet been selected.
 
+Contributors:
+
+ - [@neerajkumaris](https://github.com/neerajkumaris)
+ - [@Amit](https://github.com/ydv-amit-ydv)
+ - [@Adesh212](https://github.com/Adesh212)
+ - [@Simon Worthington](https://github.com/mrchristian)
+
 ## SECTIONS
 
 ## Orientation and learning points
@@ -24,7 +31,7 @@ Assigned @NOT ASSIGNED -
 
 ## A literature review question?
 
-Assigned @neerajkumaris - 
+Assigned [@neerajkumaris](https://github.com/neerajkumaris) - 
 
 **Questions:** 
 
@@ -36,9 +43,11 @@ How does the author report on their question in the literature review in terms o
 
 ## Using CoLab
 
-Assigned @neerajkumaris - 
+Assigned [@neerajkumaris](https://github.com/neerajkumaris) - 
 
 **Questions:** 
+
+- How and when to add CoLab to GitHub? [@Simon Worthington](https://github.com/mrchristian)
 
 **Notes:** 
 
@@ -46,7 +55,7 @@ Assigned @neerajkumaris -
 
 ## Install
 
-Assigned @neerajkumaris - 
+Assigned [@neerajkumaris](https://github.com/neerajkumaris) - 
 
 **Questions:** 
 
@@ -56,7 +65,7 @@ Assigned @neerajkumaris -
 
 ## Searching open corpora
 
-Assigned @Amit - 
+Assigned [@Amit](https://github.com/ydv-amit-ydv) 
 
 **Questions:** 
 
@@ -66,7 +75,7 @@ Assigned @Amit -
 
 ## Analysing your collection
 
-Assigned @Adesh212 -
+Assigned [@Adesh212](https://github.com/Adesh212) -
 
 **Questions:** 
 
@@ -76,7 +85,7 @@ Assigned @Adesh212 -
 
 ## Using collection in your review paper
 
-Assigned @mrchristian -
+Assigned [@Simon Worthington](https://github.com/mrchristian) -
 
 **Notes:** 
 
@@ -101,7 +110,8 @@ What does the collection (or what would we like it to collect) and the process p
 
 **Outline:**
 
-
+  - Add reference list to the paper and store it in Zotero
+  - Take a GitHub Release of 
 
 ## Other sections
 
