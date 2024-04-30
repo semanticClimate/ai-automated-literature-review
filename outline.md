@@ -4,9 +4,9 @@ The idea is to create descriptions of what we would like the ALR to do.
 
 The writing style will be based on the following:
 
-  - Technical writing method: Diátaxis - https://diataxis.fr/
-  - Technical writing style: MDN Web Docs - https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide
-  - Style guide: APA - https://apastyle.apa.org/
+ - Technical writing method: Diátaxis - https://diataxis.fr/
+ - Technical writing style: MDN Web Docs - https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide
+ - Style guide: APA - https://apastyle.apa.org/
 
 The writing tooling has not yet been selected.
 
@@ -95,23 +95,32 @@ The author needs to use the collection, and information and data about the colle
 
 What does the collection (or what would we like it to collect) and the process produce that the author can use in their paper?
 
-  - A complete Git repository
-  - A replicable and reusable system
-  - A DOI references data and code set on Zenodo or other academic repository as a full GitHub repository using Software Citation
-  - A saved query: https://pygetpapers.readthedocs.io/en/latest/user_documentation.html#example-query Flag --save_query as saved_config.ini
-  - A CProject for the whole query
-  - A CTree per paper
-  - Custom terms and dictionaries
-  - Data analysis results?
-    - Hits
-    - Word frequency
-  - Bibtex output and import with content an/or contnet links to Zotero
-  - CSS Paged media outputs
+ - A complete Git repository
+ - A replicable and reusable system
+ - A DOI references data and code set on Zenodo or other academic repository as a full GitHub repository using Software Citation
+ - A saved query: https://pygetpapers.readthedocs.io/en/latest/user_documentation.html#example-query Flag --save_query as saved_config.ini
+ - A CProject for the whole query
+ - A CTree per paper
+ - Custom terms and dictionaries
+ - Data analysis results?
+  - Hits
+  - Word frequency
+ - Bibtex output and import with content an/or contnet links to Zotero
+ - CSS Paged media outputs
 
 **Outline:**
 
-  - Add reference list to the paper and store it in Zotero
-  - Take a GitHub Release of 
+ - Add reference list to the paper and store it in Zotero
+ - Take a GitHub Release of repository add to Zenodo and link as data to paper
+ - Link to all papers in repo CTree
+ - Present question and methods for converting into query, show table of queries, link to data
+ - Provide information on how to reproduce and reuse / extend the CProject
+ - Present data analysis of literature review in paper
+  - Chart and data link to number of hits
+  - Chart of NGram of search term
+  - Table of work frequency
+  - Table of top ten papers
+  - Table of top journals, top authors
 
 ## Other sections
 
