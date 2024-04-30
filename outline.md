@@ -6,7 +6,7 @@ The writing style will be based on the following:
 
   - Technical writing method: Diátaxis - https://diataxis.fr/
   - Technical writing style: MDN Web Docs - https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide
-  - Style guide: CMOS - https://www.chicagomanualofstyle.org/home.html
+  - Style guide: APA - https://apastyle.apa.org/
 
 The writing tooling has not yet been selected.
 
