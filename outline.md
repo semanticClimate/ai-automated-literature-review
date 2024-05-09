@@ -112,6 +112,8 @@ What does the collection (or what would we like it to collect) and the process p
 
 **Outline:**
 
+**Ideal process**
+
  - Add reference list to the paper and store it in Zotero
  - Take a GitHub Release of repository add to Zenodo and link as data to paper
  - Link to all papers in repo CTree
@@ -120,7 +122,19 @@ What does the collection (or what would we like it to collect) and the process p
  - Present data analysis of literature review in paper
   - Chart and data link to number of hits
   - Chart of NGram of search term
-  - Table of work frequency
+  - Table of word frequency
+  - Table of top ten papers
+  - Table of top journals, top authors
+
+**Current process**
+
+ - Take a GitHub Release of repository add to Zenodo and link as data to paper
+ - Link to all papers in repo CTree
+ - Present question and methods for converting into query, show table of queries, link to data
+ - Provide information on how to reproduce and reuse / extend the CProject
+ - Present data analysis of literature review in paper
+  - Table of the number of hits
+  - Table of word frequency
   - Table of top ten papers
   - Table of top journals, top authors
 
