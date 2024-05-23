@@ -65,13 +65,35 @@ Assigned [@neerajkumaris](https://github.com/neerajkumaris) -
 
 **Outline:**
 
-## Searching open corpora
+## Searching open corpora<br>
 
-Assigned [@Amit](https://github.com/ydv-amit-ydv) 
+Assigned [@Amit](https://github.com/ydv-amit-ydv) <br>
 
-**Questions:** 
+**Identification of the Topics and queries** <br>
+	
+	Start by removing the stop words and select the most relevant keywords<br>
+	For example : Ques : What is the role of silicon transporter in the rice ? <br>
+	Step 1 : Remove Stop words : Remaing words are :   Role , Silicon , transorter, rice <br>
+	
+**Installation of the Semantic toolkit :**<br>
+		_Using Desktop :_<br>
+		1)_(skip if already installed)_: Install python by downloading from the : https://www.python.org/downloads/<br>
+			Add path variable in the installation process<br>
+	    2) Open command promt: and type <code> pip install pygetpapers </code><br>
+		2)                              <code> pip install docanalysis </code><br>
+		
 
-**Notes:** 
+**Searching the corpora (EUPMC) :**<br>
+	Open the command terminal in ther directory where you wish to store your project<br>
+	1) <code>  _pygetpapers -q "your query terms" -n "lantana_query_config"--save_query_ </code>   Using this you will be able to count the total number of available papers on EUPMC for the query , <br>
+				we can also use the attributes like -startdate and enddate to filter out the query <br>
+				
+	2 ) <code> _pygetpapers -q " role silicon transporter rice " -k 10 -p -x -makecsv -makehtml -o path/to/some/output/directory/optional --loglevel debug -x --logfile test_log.txt_ </code><br>
+ 
+				This will download the 10 papers from the EUPMC in both the xml and pdf formats , make the csv and html of the associated metadata and download these papers in the given output directory	<br>
+				Similarly we can download more papers and make the entire cProject tree<br>
+				_--loglevel debug -x --logfile test_log.txt_ is to write the log to a .txt file in your HOME directory, while simultaneously printing it out.<br>
+				When _o output ath is not given the downloaded copora is saved to the pwd as a time-stamed directory<br>
 
 **Outline:**
 
