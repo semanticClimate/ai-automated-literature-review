@@ -158,6 +158,76 @@ Assigned [@neerajkumaris](https://github.com/neerajkumaris) -
 
 **Outline:**
 
+To install and configure the necessary tools to use Google Colab with GitHub, follow these steps:
+
+**Step 1: Install Git**
+If you don't already have Git installed on your local machine, you can download and install it from git-scm.com. Follow the installation instructions for your operating system.
+
+**Step 2: Set Up GitHub Account**
+Ensure you have a GitHub account. If you don't have one, you can sign up for free at github.com.
+
+**Step 3: Link Google Colab with GitHub**
+
+**Open Google Colab:**
+1.Navigate to Google Colab.
+
+**Authenticate with GitHub:**
+1. In Colab, click on "File" in the top menu.
+2. Select "Save a copy in GitHub". If it's your first time, you'll be prompted to authenticate with GitHub.
+3. Follow the prompts to sign in to your GitHub account and grant the necessary permissions.
+
+**Step 4: Save a Notebook to GitHub**
+
+**Open a Notebook in Colab:**
+1. Either create a new notebook or open an existing one.
+
+**Save to GitHub:**
+1. Click on "File" in the menu.
+2. Select "Save a copy in GitHub".
+3. A dialog will appear where you can select the repository, branch, and provide a commit message.
+4. Click "OK" to save the notebook to the specified repository.
+
+**Step 5: Open a Notebook from GitHub in Colab**
+
+**Navigate to Google Colab:**
+1. Go to Google Colab.
+
+**Open from GitHub:**
+1. Click on "GitHub" in the menu.
+2. Authenticate with GitHub if prompted.
+3. Use the search bar to find the repository or notebook you want to open.
+4. Click on the desired notebook to open it in Colab.
+
+**Step 6: Use Git Commands in Colab**
+
+For more advanced version control, you can use Git commands directly within a Colab notebook:
+
+**1.Clone a Repository:**
+
+!git clone https://github.com/yourusername/yourrepository.git 
+
+**2. Change Directory:**
+
+%cd yourrepository 
+
+**3. Use Other Git Commands:**
+
+For example, to pull the latest changes:
+
+!git pull
+
+To add changes:
+
+!git add . 
+
+To commit changes:
+
+!git commit -m "Your commit message" 
+
+To push changes:
+
+!git push
+
 ## Searching open corpora
 
 Assigned [@Amit](https://github.com/ydv-amit-ydv) 
