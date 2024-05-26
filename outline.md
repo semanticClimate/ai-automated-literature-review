@@ -100,6 +100,54 @@ Assigned [@neerajkumaris](https://github.com/neerajkumaris) -
 
 **Outline:**
 
+**When to Add a Colab Notebook to GitHub:**
+
+1. When you want to share your notebook with collaborators or the public.
+2. To keep track of changes and maintain version history.
+3. When your notebook is part of a larger project hosted on GitHub.
+4. To display your work in a professional portfolio.
+
+**How to Add a Colab Notebook to GitHub:**
+
+**Linking GitHub to Colab:**
+
+First, you need to link your GitHub account with your Google Colab account:
+
+1. Open a Google Colab notebook.
+2. Click on "File" in the menu.
+3. Select "Save a copy in GitHub".
+4. If you haven't linked your GitHub account before, a prompt will appear asking you to authenticate with GitHub. Follow the instructions to grant access.
+
+**Saving a Colab Notebook to GitHub:**
+
+Once your GitHub account is linked, you can save notebooks directly to a GitHub repository:
+
+1. Open the notebook you want to save.
+2. Click on "File" in the menu.
+3. Select "Save a copy in GitHub".
+4. A dialog will appear where you can specify the repository, the branch, and the commit message.
+5. Click "OK" to save the notebook to the specified GitHub repository.
+
+**Opening a Notebook from GitHub in Colab:**
+
+To open a notebook directly from a GitHub repository:
+
+1. Go to the Google Colab homepage.
+2. Click on "GitHub" in the menu.
+3. Authenticate with your GitHub account if prompted.
+4. Search for the repository or notebook you want to open.
+5. Click on the notebook to open it in Colab.
+
+**Using Git Commands in Colab:**
+
+For more advanced use cases, you can use Git commands directly within a Colab notebook:
+
+1. Start by cloning a repository:
+!git clone https://github.com/yourusername/yourrepository.git 
+2. Navigate into the repository directory:
+%cd yourrepository 
+3. You can now use other Git commands, such as git pull, git add, git commit, and git push, just like you would in a local development environment.
+
 ## Install
 
 Assigned [@neerajkumaris](https://github.com/neerajkumaris) - 
