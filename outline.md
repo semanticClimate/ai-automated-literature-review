@@ -41,6 +41,8 @@ How does the author report on their question in the literature review in terms o
 
 **Notes:** 
 
+When the author reports on their question in the literature review using Automated Literature Review (ALR) tools such as pygetpapers, they typically follow a systematic process that leverages the capabilities of the tool to enhance the efficiency and comprehensiveness of their review. 
+
 **Outline:**
 Outline for Reporting on the Research Question in the Literature Review Using pygetpapers :
 
