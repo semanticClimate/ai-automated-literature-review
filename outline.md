@@ -113,26 +113,26 @@ Assigned [@neerajkumaris](https://github.com/neerajkumaris) -
 
 **1. Linking GitHub to Colab**
 **First, you need to link your GitHub account with your Google Colab account:**
-Open a Google Colab notebook.
-Click on "File" in the menu.
-Select "Save a copy in GitHub".
-If you haven't linked your GitHub account before, a prompt will appear asking you to authenticate with GitHub. Follow the instructions to grant access.
+a. Open a Google Colab notebook.
+b. Click on "File" in the menu.
+c. Select "Save a copy in GitHub".
+d. If you haven't linked your GitHub account before, a prompt will appear asking you to authenticate with GitHub. Follow the instructions to grant access.
 
 **2. Saving a Colab Notebook to GitHub**
 **Once your GitHub account is linked, you can save notebooks directly to a GitHub repository:**
-Open the notebook you want to save.
-Click on "File" in the menu.
-Select "Save a copy in GitHub".
-A dialog will appear where you can specify the repository, the branch, and the commit message.
-Click "OK" to save the notebook to the specified GitHub repository.
+a. Open the notebook you want to save.
+b. Click on "File" in the menu.
+c. Select "Save a copy in GitHub".
+d. A dialog will appear where you can specify the repository, the branch, and the commit message.
+e. Click "OK" to save the notebook to the specified GitHub repository.
 
 **3. Opening a Notebook from GitHub in Colab**
 **To open a notebook directly from a GitHub repository:**
-Go to the Google Colab homepage.
-Click on "GitHub" in the menu.
-Authenticate with your GitHub account if prompted.
-Search for the repository or notebook you want to open.
-Click on the notebook to open it in Colab.
+a. Go to the Google Colab homepage.
+b. Click on "GitHub" in the menu.
+c. Authenticate with your GitHub account if prompted.
+d. Search for the repository or notebook you want to open.
+e. Click on the notebook to open it in Colab.
 
 **4. Using Git Commands in Colab**
 **For more advanced use cases, you can use Git commands directly within a Colab notebook:**
