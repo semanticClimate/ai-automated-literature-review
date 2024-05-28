@@ -1,5 +1,7 @@
 # Documentation Outline
 
+Moved to Hedgedoc 28 May 2024 @mrchristian : https://demo.hedgedoc.org/QyniBhytQGGeIx3XdM8F2g
+
 The idea is to create descriptions of what we would like the ALR to do.
 
 The writing style will be based on the following:
