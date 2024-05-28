@@ -204,7 +204,7 @@ Similarly we can download more papers and make the entire cProject tree<br>
 >_When -o output path is not given the downloaded copora is saved to the pwd as a time-stamed directory<br>_
 
 
-### **Short Summary of the essential tags of the pegetapers**
+### **Short Summary of the essential tags of the pegetpapers**
 
 |Flag|What it does|In this case `pygetpapers`...|
 |---|---|---|
