@@ -178,37 +178,53 @@ Assigned [@neerajkumaris](https://github.com/neerajkumaris) -
 
 **Outline:**
 
-## Searching open corpora<br>
+## Searching open corpora</br>
 
-Assigned [@Amit](https://github.com/ydv-amit-ydv) <br>
+Assigned [@Amit](https://github.com/ydv-amit-ydv) </br>
 
 **Identification of the Topics and queries** <br>
 	
-	Start by removing the stop words and select the most relevant keywords<br>
-	For example : Ques : What is the role of silicon transporter in the rice ? <br>
-	Step 1 : Remove Stop words : Remaing words are :   Role , Silicon , transorter, rice <br>
+Start by removing the stop words and select the most relevant keywords<br><br>
+For example : Ques : What is the role of silicon transporter in the rice ?<br><br>
+>Step 1 : Remove Stop words : Remaing words are :   Role , Silicon , transorter, rice <br>
 	
-**Installation of the Semantic toolkit :**<br>
-		_Using Desktop :_<br>
-		1)_(skip if already installed)_: Install python by downloading from the : https://www.python.org/downloads/<br>
-			Add path variable in the installation process<br>
-	    2) Open command promt: and type <code> pip install pygetpapers </code><br>
-		2)                              <code> pip install docanalysis </code><br>
-		
+**Searching the corpora (EUPMC)** <br><br>
+Open the command terminal in ther directory where you wish to store your project<br>
+>Step 2 : <code>  _pygetpapers -q "your query terms" -n "lantana_query_config"--save_query_ </code><br>
 
-**Searching the corpora (EUPMC) :**<br>
-	Open the command terminal in ther directory where you wish to store your project<br>
-	1) <code>  _pygetpapers -q "your query terms" -n "lantana_query_config"--save_query_ </code>   Using this you will be able to count the total number of available papers on EUPMC for the query , <br>
-				we can also use the attributes like -startdate and enddate to filter out the query <br>
+Using this you will be able to count the total number of available papers on EUPMC for the query  <br><br>
+We can also use the attributes like -startdate and enddate to filter out the query <br>
 				
-	2 ) <code> _pygetpapers -q " role silicon transporter rice " -k 10 -p -x -makecsv -makehtml -o path/to/some/output/directory/optional --loglevel debug -x --logfile test_log.txt_ </code><br>
+>Step 3 : <code> _pygetpapers -q " role silicon transporter rice " -k 10 -p -x -makecsv -makehtml -o path/to/some/output/directory/optional --loglevel debug -x --logfile test_log.txt_ </code><br>
  
-				This will download the 10 papers from the EUPMC in both the xml and pdf formats , make the csv and html of the associated metadata and download these papers in the given output directory	<br>
-				Similarly we can download more papers and make the entire cProject tree<br>
-				_--loglevel debug -x --logfile test_log.txt_ is to write the log to a .txt file in your HOME directory, while simultaneously printing it out.<br>
-				When _o output ath is not given the downloaded copora is saved to the pwd as a time-stamed directory<br>
+This will download the 10 papers from the EUPMC in both the xml and pdf formats , make the csv and html of the associated metadata and download these papers in the given output directory<br><br>
+Similarly we can download more papers and make the entire cProject tree<br>
+>_--loglevel debug -x --logfile test_log.txt_ is to write the log to a .txt file in your HOME directory, while simultaneously printing it out.<br>
 
-**Outline:**
+>_When -o output path is not given the downloaded copora is saved to the pwd as a time-stamed directory<br>_
+
+
+**Short Summary of the essential tags of the pegetapers**
+
+|Flag|What it does|In this case `pygetpapers`...|
+|---|---|---|
+|`-q`|specifies the query|queries for 'invasive plant species' in METHODS section|
+|`-k`|number of hits (default 100)|limits hits to 10|
+|`-o`|specifies output directory|outputs to invasive_plant_species_test|
+|`-x`|downloads fulltext xml||
+|`-c`|saves per-paper metadata into a single csv|saves single  CSV named [`europe_pmc.csv`](resources/invasive_plant_species_test/europe_pmc.csv)|
+|`--makehtml`|saves per-paper metadata into a single HTML file|saves single HTML named [`europe_pmc.html`](resources/invasive_plant_species_test/eupmc_results.html)|
+|`--save_query`|saves the given query in a `config.ini` in output directory|saves query to [`saved_config.ini`](resources/invasive_plant_species_test/saved_config.ini)|
+
+
+`pygetpapers`, by default, writes metadata to a JSON file within:
+- individual paper directory for corresponding paper (`epmc_result.json`)
+- working directory for all downloaded papers ([`epmc_results.json`](resources/invasiv_plant_species_test/eupmc_results.json))
+
+**Notes :**
+-The query terms can be also specified in the purticular section like Abstract, methods, results etc 
+><code>C:\Users\lilia>pygetpapers -q abstract:"money" -n<br>
+INFO: Total number of hits for the query are 22161</code>
 
 ## Analysing your collection
 
