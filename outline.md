@@ -105,41 +105,67 @@ Assigned [@neerajkumaris](https://github.com/neerajkumaris) -
 **When to Add CoLab to GitHub**
 
 1. To keep track of changes and revisions to your notebooks.
+
 2. To easily share notebooks with collaborators and work together on the same project.
+
 3. To keep a backup of your work in case of accidental deletions or changes.
+
 4. To integrate your notebooks into a larger project managed on GitHub, benefiting from issues tracking, pull requests, and other GitHub features.
 
 **Steps to integrate Google Colab to GitHub**
 
 **1. Linking GitHub to Colab**
+
 **First, you need to link your GitHub account with your Google Colab account:**
+
 a. Open a Google Colab notebook.
+
 b. Click on "File" in the menu.
+
 c. Select "Save a copy in GitHub".
+
 d. If you haven't linked your GitHub account before, a prompt will appear asking you to authenticate with GitHub. Follow the instructions to grant access.
 
 **2. Saving a Colab Notebook to GitHub**
+
 **Once your GitHub account is linked, you can save notebooks directly to a GitHub repository:**
+
 a. Open the notebook you want to save.
+
 b. Click on "File" in the menu.
+
 c. Select "Save a copy in GitHub".
+
 d. A dialog will appear where you can specify the repository, the branch, and the commit message.
+
 e. Click "OK" to save the notebook to the specified GitHub repository.
 
 **3. Opening a Notebook from GitHub in Colab**
+
 **To open a notebook directly from a GitHub repository:**
+
 a. Go to the Google Colab homepage.
+
 b. Click on "GitHub" in the menu.
+
 c. Authenticate with your GitHub account if prompted.
+
 d. Search for the repository or notebook you want to open.
+
 e. Click on the notebook to open it in Colab.
 
 **4. Using Git Commands in Colab**
+
 **For more advanced use cases, you can use Git commands directly within a Colab notebook:**
+
 **Start by cloning a repository:**
+
 !git clone https://github.com/yourusername/yourrepository.git 
+
 **Navigate into the repository directory:**
+
 %cd yourrepository 
+
 You can now use other Git commands, such as git pull, git add, git commit, and git push, just like you would in a local development environment.
 
 ## Install
