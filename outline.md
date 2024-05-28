@@ -182,13 +182,13 @@ Assigned [@neerajkumaris](https://github.com/neerajkumaris) -
 
 Assigned [@Amit](https://github.com/ydv-amit-ydv) </br>
 
-**Identification of the Topics and queries** <br>
+### **Identification of the Topics and queries** <br>
 	
 Start by removing the stop words and select the most relevant keywords<br><br>
 For example : Ques : What is the role of silicon transporter in the rice ?<br><br>
 >Step 1 : Remove Stop words : Remaing words are :   Role , Silicon , transorter, rice <br>
 	
-**Searching the corpora (EUPMC)** <br><br>
+### **Searching the corpora (EUPMC)** <br><br>
 Open the command terminal in ther directory where you wish to store your project<br>
 >Step 2 : <code>  _pygetpapers -q "your query terms" -n "lantana_query_config"--save_query_ </code><br>
 
@@ -204,7 +204,7 @@ Similarly we can download more papers and make the entire cProject tree<br>
 >_When -o output path is not given the downloaded copora is saved to the pwd as a time-stamed directory<br>_
 
 
-**Short Summary of the essential tags of the pegetapers**
+### **Short Summary of the essential tags of the pegetapers**
 
 |Flag|What it does|In this case `pygetpapers`...|
 |---|---|---|
@@ -221,7 +221,7 @@ Similarly we can download more papers and make the entire cProject tree<br>
 - individual paper directory for corresponding paper (`epmc_result.json`)
 - working directory for all downloaded papers ([`epmc_results.json`](resources/invasiv_plant_species_test/eupmc_results.json))
 
-**Notes :**
+### **Notes :**
 -The query terms can be also specified in the purticular section like Abstract, methods, results etc 
 ><code>C:\Users\lilia>pygetpapers -q abstract:"money" -n<br>
 INFO: Total number of hits for the query are 22161</code>
