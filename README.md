@@ -8,6 +8,12 @@ Once you’re determined which classes you’d like to attend, you can Register 
 
 https://whova.com/portal/registration/HDzKwbPHTjc9qUc8a0D3/
 
+---
+
+_If any corrections are needed please make them [here](https://docs.google.com/document/d/1Rj4fEAesweTwuqIw4tvQw6Ek4lVbdC7S4EaqF7gtK9Y/edit?tab=t.0) on the Google Doc and message Simon Worthington to have them reviewed._
+
+---
+
 ## Instructor
 
 Course chair: Simon Worthington, semanticClimate, Publishing Knowledge Graph Researcher (TIB – Leibniz Information Centre for Science and Technology and University Library)
