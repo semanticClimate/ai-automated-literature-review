@@ -1,4 +1,4 @@
-# E01 \- AI-Assisted Literature Review on Open Access Repositories: Including Image and Object Detection
+# Rapid Scoping Reviews: Open Source AI LLM on Open Access Research Literature Repositories 
 
 2025 FSCI course: https://force11.org/fsci/post/fsci-2025-courses-abstracts/#e01 
 
