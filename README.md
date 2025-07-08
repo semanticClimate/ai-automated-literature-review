@@ -4,15 +4,11 @@
 
 Courses are held Tuesday 7/22, Wednesday 7/23, and Thursday 7/24.  Each class will have a Zoom session at the same time on each of the three days, as specified in their course abstracts.  The courses are listed in Pacific time (UTC-7)
 
-Once you’re determined which classes you’d like to attend, you can Register for FSCI today.
-
-https://whova.com/portal/registration/HDzKwbPHTjc9qUc8a0D3/
+Register for FSCI: https://whova.com/portal/registration/HDzKwbPHTjc9qUc8a0D3/
 
 ---
 
-_If any corrections are needed please make them [here](https://docs.google.com/document/d/1Rj4fEAesweTwuqIw4tvQw6Ek4lVbdC7S4EaqF7gtK9Y/edit?tab=t.0) on the Google Doc and message Simon Worthington to have them reviewed._
-
----
+# E01 \- AI-Assisted Literature Review on Open Access Repositories: Including Image and Object Detection
 
 ## Instructor
 
@@ -26,9 +22,13 @@ Additional Contributors: Shabnam Barbhuiya, Jamia Millia Islamia University (Co-
 
 ## Abstract
 
+The course covers how to use a self-hosted open-source AI LLM RAG (Retrieval-Augmented Generation) assisted literature review system with supporting user learning material. The system is for: using open access literature repositories; is based on open science (open scholarship) principles; is globally equitable, inclusive, and multilingual, and; is independent of commercial providers.
+
+Participants will be able to self-host their own open-source AI LLM RAG system with no dependency on commercial providers, and to be able to adapt the system to different retrieval and knowledge query use cases. See: [https://github.com/semanticClimate/llmrag](https://github.com/semanticClimate/llmrag) 
+
 The Assisted Literature Review (ALR) course covers instruction for a semi-automated literature search with a focus on AI LLM RAG use on a dedicated corpus. In the course the example corpus will be the IPCC’s *Sixth Assessment Report*. The framework can be used on any topic or corpus, for example from the Open Access literature from Europe PMC, which is a corpus of 7 million open access articles.
 
-The AI and machine learning open-source software used is the \#semanticClimate text and data mining tooling, with publishing services from Computation Publishing Service (TIB/NFDI4Culture). The course is an introduction to AI Algorithms for data mining including LLM RAG frameworks. A template ‘good practice’ framework will be provided for participants later use.This course introduces literature search, text mining, image classification as well as object detection. The algorithms and the data used are all open-source and issues of trustability for open science are a priority.
+The AI and machine learning open-source software used is the \#semanticClimate text and data mining tooling. The course is an introduction to AI Algorithms for data mining including LLM RAG frameworks. A template ‘good practice’ framework will be provided for participants later use.This course introduces literature search, text mining, image classification as well as object detection. The algorithms and the data used are all open-source and issues of trustability for open science are a priority.
 
 All instruction is carried out using CoLab Jupyter Notebooks so no complicated installations are required.
 
@@ -43,7 +43,7 @@ Course units are:
 * Image classification;  
 * LLM RAG use with PDFs and with HTML.
 
-The focus for the class is a scoping literature review. The results of the AI Assisted Literature Review workflow taught in the class are a literature review report, including: a textual summary, summaries of papers as a data table, the complete full-text articles downloaded, a reproducible and replicable CoLab Notebook with all the software and code used in the review. The content package is contained in a Git repository with a Quarto software produced computational publication that has Zenodo DOIs minted for review as publication and for supporting code and data. The resulting content package can be used in papers, reporting, dashboards, CI pipelines, and for further data analysis.
+The focus for the class is a scoping literature review. The results of the AI Assisted Literature Review workflow taught in the class are a literature review report, including: a textual summary, summaries of papers as a data table, the complete full-text articles downloaded, a reproducible and replicable CoLab Notebook with all the software and code used in the review. The resulting content package can be used in papers, reporting, dashboards, CI pipelines, and for further data analysis.
 
 **Audience:** Researchers, librarians, publishers
 
@@ -65,9 +65,11 @@ At the end of the course, participants will be able to:
 
 This course will be presented over three days for 1 hours each day and will cover these  topics:
 
+* Understanding of AI LLM RAG key components  
+* Use of provided LLM RAG system to design own project  
+* Corpus creation, and text and data mining;  
 * Named entity recognition;  
 * Summarisation;  
-* Corpus creation, and text and data mining;  
 * Image classification;  
 * LLM RAG use with PDFs and with HTML
 
@@ -84,46 +86,24 @@ LIVE ZOOM SESSION SCHEDULE
 #### Presentation details Day 1
 
 * Good practice framework for managing LLM projects  
-* Named entity recognition  
-* Summarisation from PDF
+* Named entity recognition; Summarisation from PDF
 
 #### Presentation details Day 2
 
-* Image classification  
-* Corpus creation  
-* Text and data mining
+* Key concepts and components of AI LLM RAG  
+* Corpus creation; Text and data mining
 
 #### Presentation details Day 3
 
-* LLM RAG with HTML  
-* LLM RAG with PDF
+* Setting up your own AI LLM RAG GitHub repository and project  
+* LLM RAG with PDF and HTML
 
 ### Course Materials and Supplies Required  
 
-Bookmark this Git repository: [https://github.com/semanticClimate/ai-automated-literature-review](https://github.com/semanticClimate/ai-automated-literature-review) .
+Bookmark these Git repository: [https://github.com/semanticClimate/ai-automated-literature-review](https://github.com/semanticClimate/ai-automated-literature-review) and [https://github.com/semanticClimate/llmrag](https://github.com/semanticClimate/llmrag) 
 
 ### Other Helpful Information
 
 \#semanticClimate tools and resources: [https://semanticclimate.github.io/p/en/posts/resources/](https://semanticclimate.github.io/p/en/posts/resources/) 
-
----
-
-*This is a template repository. Instructions for use are [here](https://github.com/semanticClimate/Research-Catalogue/wiki/Cataloging-Colab-Notebooks). Delete this line of text when your publish your own repository.*
-
-Add your DOI Zenodo badge here.
-
-A Jupyter Notebook from #semantic*Climate* - Liberating knowledge from climate-related reports
-
-License: Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
-
-License information: [LICENSE](LICENSE)
-
-## Software Citation
-
-Add your name and ORCID in the CITATION.cff file to be attributed for your code contributions. Make a pull request after editing.
-
-Edit Citation File Format: [CITATION.cff](CITATION.cff)
-
-About Citation File Format: https://citation-file-format.github.io/
 
 
