@@ -110,7 +110,10 @@ Example literature review for the topic of [Climate Justice](https://github.com/
 
 ### Course Materials and Supplies Required  
 
-Bookmark these Git repository: [https://github.com/semanticClimate/ai-automated-literature-review](https://github.com/semanticClimate/ai-automated-literature-review) and [https://github.com/semanticClimate/llmrag](https://github.com/semanticClimate/llmrag) 
+Bookmark these Git repository: 
+
+  - [https://github.com/semanticClimate/ai-automated-literature-review](https://github.com/semanticClimate/assisted-literature-review) and
+  - [https://github.com/semanticClimate/llmrag](https://github.com/semanticClimate/llmrag) 
 
 ### Other Helpful Information
 
