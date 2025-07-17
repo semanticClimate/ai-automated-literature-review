@@ -81,6 +81,8 @@ LIVE ZOOM SESSION SCHEDULE
 | 7:00am – 8:00am | 60 minutes |
 | :---- | :---: |
 
+[FSCI Assisted Literature Review learning modules documentation](/fsci-learning-modules.md)
+
 ### Day 1-3
 
 #### Presentation details Day 1
