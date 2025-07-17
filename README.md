@@ -81,7 +81,15 @@ LIVE ZOOM SESSION SCHEDULE
 | 7:00am – 8:00am | 60 minutes |
 | :---- | :---: |
 
+Example literature review for the topic of [Climate Justice](https://github.com/semanticClimate/JEP-article/blob/main/climate_justice_demo_sC_tools.ipynb) 2025, machine learning tooling only.
+
+https://github.com/semanticClimate/JEP-article/blob/main/climate_justice_demo_sC_tools.ipynb
+
 [FSCI Assisted Literature Review learning modules documentation](/fsci-learning-modules.md)
+
+[All notebooks](/notebooks/]
+
+[All sample outputs](/outputs)
 
 ### Day 1-3
 
