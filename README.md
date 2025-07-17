@@ -24,7 +24,7 @@ Additional Contributors: Shabnam Barbhuiya, Jamia Millia Islamia University (Co-
 
 The course covers how to use a self-hosted open-source AI LLM RAG (Retrieval-Augmented Generation) assisted literature review system with supporting user learning material. The system is for: using open access literature repositories; is based on open science (open scholarship) principles; is globally equitable, inclusive, and multilingual, and; is independent of commercial providers.
 
-Participants will be able to self-host their own open-source AI LLM RAG system with no dependency on commercial providers, and to be able to adapt the system to different retrieval and knowledge query use cases. See: [semanticClimate llmrag repo](https://github.com/semanticClimate/llmrag) | [About #sC llmrage](/open source ai llm.md)
+Participants will be able to self-host their own open-source AI LLM RAG system with no dependency on commercial providers, and to be able to adapt the system to different retrieval and knowledge query use cases. See: [semanticClimate llmrag repo](https://github.com/semanticClimate/llmrag) | [About #sC llmrage](/open-source-ai-llm.md)
 
 The Assisted Literature Review (ALR) course covers instruction for a semi-automated literature search with a focus on AI LLM RAG use on a dedicated corpus. In the course the example corpus will be the IPCC’s *Sixth Assessment Report*. The framework can be used on any topic or corpus, for example from the Open Access literature from Europe PMC, which is a corpus of 7 million open access articles.
 
