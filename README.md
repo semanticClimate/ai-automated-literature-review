@@ -83,28 +83,30 @@ LIVE ZOOM SESSION SCHEDULE
 
 Example literature review for the topic of [Climate Justice](https://github.com/semanticClimate/JEP-article/blob/main/climate_justice_demo_sC_tools.ipynb) 2025, machine learning tooling only.
 
-FSCI Assisted Literature Review [learning modules](/fsci-learning-modules.md) documentation.
+## Important tutorial links
 
-[All notebooks](/notebooks)
+  - FSCI - AI Assisted Literature Review (ALR) [learning modules](/fsci-learning-modules.md) documentation.
 
-[All sample outputs](/outputs)
+    - [All notebooks](/notebooks)
+
+    - [All sample outputs](/outputs)
 
 ### Day 1-3
 
 #### Presentation details Day 1
 
-* Corpus creation: OA repository retreival and analysis - Led by Renu Kumari, with support gtom Shabnam Barbhuiya	and Moobashara Jawed
-* Named entity recognition; Summarisation from PDF
+* Corpus creation: OA repository retreival and analysis - Renu Kumari, with support from Shabnam Barbhuiya and Moobashara Jawed
+* Vibe coding: Coding with an AI assistant - Peter Murray Rust, with support from Anudev Suresh, Sarth Shah, and Moobashara Jawed
 
 #### Presentation details Day 2
 
-* Key concepts and components of AI LLM RAG  
-* Corpus creation; Text and data mining
+* PDF summarisation - Shabnam Barbhuiya and Haarthi Vallabhaneni
+* Image classification - Ambreen Hamadani and Avika Joshi
 
 #### Presentation details Day 3
 
-* Setting up your own AI LLM RAG GitHub repository and project  
-* LLM RAG with PDF and HTML
+* Named entity recognition (NER): Entities and concepts - Moobashara Jawed, with support from Renu Kumari
+* LLM RAG: For HTML and/or PDF - Anna Rahr, with support from Shabnam Barbhuiya 
 
 ### Course Materials and Supplies Required  
 
