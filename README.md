@@ -93,7 +93,7 @@ FSCI Assisted Literature Review [learning modules](/fsci-learning-modules.md) do
 
 #### Presentation details Day 1
 
-* Good practice framework for managing LLM projects  
+* Corpus creation: OA repository retreival and analysis - Led by Renu Kumari, with support gtom Shabnam Barbhuiya	and Moobashara Jawed
 * Named entity recognition; Summarisation from PDF
 
 #### Presentation details Day 2
