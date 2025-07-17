@@ -4,8 +4,8 @@ authors:
 - family-names: "Worthington"
   given-names: "Simon"
   orcid: "https://orcid.org/0000-0002-8579-9717"
-title: "Automated Literature Review"
+title: "Assisted Literature Review"
 version: 0.0.1
 doi: 
-date-released: 2024-03-27
-url: "https://github.com/semanticClimate/automated-literature-review/"
+date-released: 2025-07-17
+url: "https://github.com/semanticClimate/assisted-literature-review/"
