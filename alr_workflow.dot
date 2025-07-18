@@ -1,0 +1,21 @@
+
+digraph ALR_Workflow {
+    rankdir=LR;
+    bgcolor=white;
+    node [shape=box, style="filled,rounded", fontname="Helvetica", fontsize=12];
+
+    // Define nodes
+    Q1 [label="1. Define Research Question", color=lightyellow, fillcolor=lightyellow];
+    Q2 [label="2. Searching\n(Tool: pygetpapers)", color=lightblue, fillcolor=lightblue];
+    Q3 [label="3. Screening\n(manual / semi-auto)", color=lightblue, fillcolor=lightblue];
+    Q4 [label="4. Data Extraction / Coding\n(Tool: AMI Toolkit / CSV)", color=lightgreen, fillcolor=lightgreen];
+    Q5 [label="5. Description & Presentation\nof Findings\n(e.g., charts, tables)", color=lightgreen, fillcolor=lightgreen];
+    Q6 [label="6. Report Writing & Dissemination\n(e.g., PDF, PPT, Graphviz)", color=lightpink, fillcolor=lightpink];
+
+    // Arrows
+    Q1 -> Q2 -> Q3 -> Q4 -> Q5 -> Q6;
+
+    // Title node (optional)
+    Title [label="ALR Workflow (Automated Literature Review)", shape=plaintext, fontsize=18, fontcolor=black];
+    Title -> Q1 [style=invis];
+}
