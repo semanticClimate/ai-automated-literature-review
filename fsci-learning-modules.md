@@ -12,7 +12,11 @@ Add your instructions, slides, notebooks and any other resouces needed for parti
 6. LLM and RAG: For HTML and/or PDF
 
 ## Corpus creation: OA repository retreival and analysis
-Here
+
+- [Notebook](https://colab.research.google.com/drive/1stqd9YxRda2SmSR-r40LBAGhabJi0vkq?usp=sharing)
+- [Output](https://github.com/semanticClimate/assisted-literature-review/tree/main/outputs/corpus_creation_pygetpapers)
+- [Presentation](https://github.com/semanticClimate/assisted-literature-review/tree/main/presentations)
+
 ## Vibe coding: Coding with an AI assistant
 Here
 ## PDF summarisation
