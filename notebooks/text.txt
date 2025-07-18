@@ -1,1 +1,3 @@
-Notebooks directory
+## Notebooks directory
+
+### [Link to Colab Notebook for corpus creation](https://colab.research.google.com/drive/1stqd9YxRda2SmSR-r40LBAGhabJi0vkq?usp=sharing) 
