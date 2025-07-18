@@ -26,9 +26,7 @@ Here
 ## Named entity recognition (NER): Entities and concepts
 Here
 ## LLM and RAG: For HTML and/or PDF
-
----
-
+- [Notebook For PDF/XML](https://colab.research.google.com/drive/17J9wEvkQvdaeOihN3N13u_ln5Oez8ssd?usp=sharing)
 ## Other
 
 ### Climate justice example lit review
