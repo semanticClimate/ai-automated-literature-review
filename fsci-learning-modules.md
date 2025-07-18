@@ -20,7 +20,7 @@ Add your instructions, slides, notebooks and any other resouces needed for parti
 ## Vibe coding: Coding with an AI assistant
 Here
 ## PDF summarisation
-Here
+- [Notebook](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
 ## Image classification
 Here
 ## Named entity recognition (NER): Entities and concepts
