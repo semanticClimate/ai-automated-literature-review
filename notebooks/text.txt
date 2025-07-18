@@ -1,3 +1,5 @@
-## Notebooks directory
+ Notebooks directory
 
-### [Link to Colab Notebook for corpus creation](https://colab.research.google.com/drive/1stqd9YxRda2SmSR-r40LBAGhabJi0vkq?usp=sharing) 
+Day 1: 22 July 2025
+Link to Colab Notebook for corpus creation:
+https://colab.research.google.com/drive/1stqd9YxRda2SmSR-r40LBAGhabJi0vkq?usp=sharing 
