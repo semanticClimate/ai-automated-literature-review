@@ -21,6 +21,7 @@ Add your instructions, slides, notebooks and any other resouces needed for parti
 Here
 ## PDF summarisation
 - [Notebook](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
+- [Presentation](https://github.com/semanticClimate/assisted-literature-review/blob/main/presentations/FSCI2025_SUMMARIZATION.pptx)
 ## Image classification
 Here
 ## Named entity recognition (NER): Entities and concepts
