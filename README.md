@@ -101,12 +101,13 @@ Example literature review for the topic of [Climate Justice](https://github.com/
 #### Presentation details Day 2
 
 * PDF summarisation - Shabnam Barbhuiya and Haarthi Vallabhaneni
-* Image classification - Ambreen Hamadani and Avika Joshi
+* Image classification - Ambreen Hamadani
+* AI Figure extraction: FigSense - Avika Joshi
 
 #### Presentation details Day 3
 
 * Named entity recognition (NER): Entities and concepts - Moobashara Jawed, with support from Renu Kumari
-* LLM RAG: For HTML and/or PDF - Anna Rahr, with support from Shabnam Barbhuiya 
+* LLM RAG for PDF - Shabnam Barbhuiya 
 
 ### Course Materials and Supplies Required  
 
