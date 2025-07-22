@@ -23,7 +23,7 @@ Here
 - [Notebook](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
 - [Presentation](https://github.com/semanticClimate/assisted-literature-review/blob/main/presentations/FSCI2025_SUMMARIZATION%20(1).pdf)
 ## Image classification
-Here
+[Notebook](https://colab.research.google.com/drive/1K0Dam1Pxi2YtruwcCe1XgwL_pLtBWJHP?usp=sharing)
 ## Named entity recognition (NER): Entities and concepts
 Here
 ## LLM and RAG: For HTML and/or PDF
