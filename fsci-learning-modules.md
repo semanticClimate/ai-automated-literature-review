@@ -20,7 +20,10 @@ NB: At end of the list is an example of #semanticClimate tooling being used on a
 - [Presentation](https://github.com/semanticClimate/assisted-literature-review/tree/main/presentations)
 
 ## Vibe coding: Coding with an AI assistant
-Here
+
+- Repository 
+- [Slide notes](https://github.com/petermr/pygetpapers/blob/v20/docs/upspace-value-story.md)
+  
 ## PDF summarisation
 - [Notebook](https://colab.research.google.com/drive/1el5Zjogk7DXqqeuBzGMqFDBGTvyWg1Pm?usp=sharing)
 - [Presentation](https://github.com/semanticClimate/assisted-literature-review/blob/main/presentations/Day_2_FSCI2025_SUMMARIZATION.pdf)
