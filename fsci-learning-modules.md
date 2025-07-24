@@ -11,6 +11,8 @@ Add your instructions, slides, notebooks and any other resouces needed for parti
 5. Named entity recognition (NER): Entities and concepts
 6. LLM and RAG: For HTML and/or PDF
 
+NB: At end of the list is an example of #semanticClimate tooling being used on a literature review in 2024 on the topic of Climate Justice.
+
 ## Corpus creation: OA repository retreival and analysis
 
 - [Notebook](https://colab.research.google.com/drive/1stqd9YxRda2SmSR-r40LBAGhabJi0vkq?usp=sharing)
@@ -34,6 +36,8 @@ Here
 
 ### Climate justice example lit review
 
-To be confirmed
+This is an example of a literature review Notebook and output data from 2024.
+
+An example of #semanticClimate tooling being used on the question of [Climate Justice](https://github.com/semanticClimate/climate-justice-lit-review/blob/main/README.md), 2024.
 
 
