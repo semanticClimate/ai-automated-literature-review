@@ -35,6 +35,13 @@ NB: At end of the list is an example of #semanticClimate tooling being used on a
 - [Presentation](https://github.com/semanticClimate/assisted-literature-review/blob/main/presentations/DAY_3_FSCI2025_NER.pptx)
 ## LLM and RAG: For HTML and/or PDF
 - [Notebook For PDF/XML](https://colab.research.google.com/drive/17J9wEvkQvdaeOihN3N13u_ln5Oez8ssd?usp=sharing)
+
+## Recordings for Three Days
+
+- #### [Day 1_Corpus Creation and Vibe Coding](https://drive.google.com/file/d/1ofb-P7TEkQwNKn9a0tR0g9lZp5L7-MbJ/view?usp=sharing)
+- #### [Day 2_PDF Summarization, Image classification, FigSense demo](https://drive.google.com/file/d/1K1rnVXoVR9J7UehWact21JzqE3YzbrJh/view?usp=sharing)
+- #### [Day 3_Named Entity Recognition and RAG LLM with PDF-XML](https://drive.google.com/file/d/1-y5VLWrB8koLT4M26gs94fPq8P8AyJ_o/view?usp=sharing)
+
 ## Other
 
 ### Climate justice example lit review
